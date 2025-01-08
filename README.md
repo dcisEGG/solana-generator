@@ -16,5 +16,3 @@ fast start
 6 python main.py
 
 
-![image_2](https://github.com/user-attachments/assets/2f139f13-8c26-4173-abd4-9a7d87f2af69)
-
